@@ -8,7 +8,7 @@
 A4xYogaKit is available to install via [CocoaPods](https://cocoapods.org/).
 
 ```
-pod 'A4xYogaKit', '~> 1.7'
+pod 'A4xYogaKit', '~> 1.6.0'
 ```
 
 ## Getting Started
